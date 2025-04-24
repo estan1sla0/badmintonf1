@@ -1,0 +1,1 @@
+// Lógica de entrenamientos, filtros y exportación
